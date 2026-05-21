@@ -20,4 +20,5 @@ A secure client/server chat application with AES encryption.
     python client.py
 ## Default Commands:
    Type message and press Enter to send
+   
   Type /quit to exit chat
